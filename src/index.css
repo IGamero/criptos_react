@@ -1,0 +1,15 @@
+:root {
+    --main-blue: #0d2235;
+    --dark-purple: #7a7dfe;
+    --light-purple: #9497ff;
+    --light-blue: #55a2fe;
+    --white: #fff;
+
+    --error-color: #b7322c;
+
+    --spinner-size: 100px;
+}
+
+body {
+    background-color: var(--main-blue);
+}
